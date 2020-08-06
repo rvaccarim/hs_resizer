@@ -1,0 +1,3 @@
+#define HS_ICON 1
+
+HS_ICON ICON DISCARDABLE "hs_resizer.ico"
